@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/features/components/breadcrumb/component/breadcrumb.component.scss"],
+  "sourcesContent": [".breadcrumb {\r\n  background-color: transparent;\r\n  padding: 0;\r\n  margin-bottom: 1rem;\r\n  list-style: none;\r\n  display: flex;\r\n}\r\n\r\n// .breadcrumb-item + .breadcrumb-item::before {\r\n//   content: \">\";\r\n//   font-weight: bold;\r\n//   padding: 0 5px;\r\n//   color: #ff460f;\r\n// }\r\n\r\n.breadcrumb-item + .breadcrumb-item::before {\r\n  content: \"\";\r\n  display: inline-block;\r\n  font-weight: bold;\r\n  width: 15px; /* Adjust size as needed */\r\n  height: 15px; /* Adjust size as needed */\r\n  background-image: url(\"/assets/favicons/chevron-right.svg\");\r\n  background-size: contain;\r\n  background-repeat: no-repeat;\r\n  margin: 0 5px;\r\n  vertical-align: middle;\r\n}\r\n"],
+  "mappings": ";AAAA,CAAA;AACE,oBAAA;AACA,WAAA;AACA,iBAAA;AACA,cAAA;AACA,WAAA;;AAUF,CAAA,gBAAA,EAAA,CAAA,eAAA;AACE,WAAA;AACA,WAAA;AACA,eAAA;AACA,SAAA;AACA,UAAA;AACA,oBAAA;AACA,mBAAA;AACA,qBAAA;AACA,UAAA,EAAA;AACA,kBAAA;;",
+  "names": []
+}

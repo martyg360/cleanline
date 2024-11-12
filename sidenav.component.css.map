@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/features/components/sidenav/sidenav.component.scss"],
+  "sourcesContent": [".sidenav-container {\r\n  background-color: var(--default-color);\r\n  // overflow: scroll;\r\n  overflow-y: auto;\r\n  overflow-x: hidden;\r\n  // width: 260px;\r\n}\r\n"],
+  "mappings": ";AAAA,CAAA;AACE,oBAAA,IAAA;AAEA,cAAA;AACA,cAAA;;",
+  "names": []
+}

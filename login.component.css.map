@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/core/auth/login/login.component.scss"],
+  "sourcesContent": [".login-section {\r\n  width: 400px;\r\n}\r\n.text-usm {\r\n  letter-spacing: 0.3em;\r\n  font-size: 15px;\r\n}\r\n\r\n.text-spacing {\r\n  letter-spacing: 0.5em;\r\n}\r\n\r\n.btn-login {\r\n  background-color: #49516b;\r\n  color: white;\r\n  width: 100%;\r\n  margin-top: 20px;\r\n}\r\n\r\n.input-with-icon {\r\n  position: relative; /* To position the icon relative to this container */\r\n  // display: flex; /* Align the icon and input horizontally */\r\n  align-items: center; /* Center align the items vertically */\r\n}\r\n\r\n.input-icon {\r\n  width: 30px; /* Set the width of the SVG icon */\r\n  height: 30px; /* Set the height of the SVG icon */\r\n  margin-right: 8px; /* Add some space between the icon and the input field */\r\n}\r\n\r\n.forgot-password {\r\n  margin-left: 30px;\r\n}\r\n"],
+  "mappings": ";AAAA,CAAA;AACE,SAAA;;AAEF,CAAA;AACE,kBAAA;AACA,aAAA;;AAGF,CAAA;AACE,kBAAA;;AAGF,CAAA;AACE,oBAAA;AACA,SAAA;AACA,SAAA;AACA,cAAA;;AAGF,CAAA;AACE,YAAA;AAEA,eAAA;;AAGF,CAAA;AACE,SAAA;AACA,UAAA;AACA,gBAAA;;AAGF,CAAA;AACE,eAAA;;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/shared/components/input-field/input-field.component.scss"],
+  "sourcesContent": [".input-invalid {\r\n  border-color: var(--input-error-color);\r\n  border-width: 2px;\r\n}\r\n\r\n.input-valid {\r\n  border-color: var(--input-valid-color);\r\n  border-width: 2px;\r\n}\r\n"],
+  "mappings": ";AAAA,CAAA;AACE,gBAAA,IAAA;AACA,gBAAA;;AAGF,CAAA;AACE,gBAAA,IAAA;AACA,gBAAA;;",
+  "names": []
+}

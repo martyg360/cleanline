@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/features/components/main/main.component.scss"],
+  "sourcesContent": [".main-container {\r\n  background-image: url(\"/assets/favicons/ct_background.svg\");\r\n  background-position: center;\r\n  background-repeat: no-repeat;\r\n  overflow-y: auto;\r\n  overflow-x: hidden;\r\n}\r\n\r\n// /* For WebKit browsers (Chrome, Safari) */\r\n// .main-container::-webkit-scrollbar {\r\n//   width: 5px; /* Width of the scrollbar */\r\n//   height: 5px; /* Height of the horizontal scrollbar */\r\n// }\r\n\r\n// .main-container::-webkit-scrollbar-thumb {\r\n//   background: #9b9b9b; /* Color of the scrollbar thumb */\r\n//   border-radius: 10px; /* Rounded edges for the thumb */\r\n// }\r\n\r\n// .main-container::-webkit-scrollbar-thumb:hover {\r\n//   background: #7a7a7a; /* Change thumb color on hover */\r\n// }\r\n\r\n// .main-container::-webkit-scrollbar-track {\r\n//   background: #ffffff; /* Background of the scrollbar track */\r\n//   border-radius: 10px; /* Rounded edges for the track */\r\n//   box-shadow: inset 7px 10px 12px #f0f0f0; /* Shadow effect for the track */\r\n// }\r\n\r\n// /* For Firefox */\r\n// .main-container {\r\n//   scrollbar-width: thin; /* Use a thin scrollbar */\r\n//   scrollbar-color: #9b9b9b #ffffff; /* Thumb color and track color */\r\n// }\r\n"],
+  "mappings": ";AAAA,CAAA;AACE,oBAAA;AACA,uBAAA;AACA,qBAAA;AACA,cAAA;AACA,cAAA;;",
+  "names": []
+}

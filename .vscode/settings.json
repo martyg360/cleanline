@@ -1,5 +1,0 @@
-{
-  "terminal.integrated.shellArgs.windows": ["/K", "C:\\Program Files\\nvm\\nvm.cmd use 18.19.0"],
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true
-}

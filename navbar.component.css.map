@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/features/components/navbar/navbar.component.scss"],
-  "sourcesContent": [".navbar-container {\r\n  background-color: var(--default-color);\r\n}\r\n\r\n.logo-section {\r\n  display: flex;\r\n  flex-direction: column;\r\n  justify-content: center;\r\n  align-items: center;\r\n  // margin-bottom: 90px;\r\n}\r\n"],
-  "mappings": ";AAAA,CAAA;AACE,oBAAA,IAAA;;AAGF,CAAA;AACE,WAAA;AACA,kBAAA;AACA,mBAAA;AACA,eAAA;;",
-  "names": []
-}

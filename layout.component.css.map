@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/core/layout/layout.component.scss"],
-  "sourcesContent": [".sidenav-container {\r\n  width: 320px !important;\r\n  // transition: transform 0.3s ease-in-out;\r\n}\r\n\r\n.ml-26 {\r\n  margin-left: 6.4rem;\r\n}\r\n"],
-  "mappings": ";AAAA,CAAA;AACE,SAAA;;AAIF,CAAA;AACE,eAAA;;",
-  "names": []
-}

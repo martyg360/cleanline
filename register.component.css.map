@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/core/auth/register/register.component.scss"],
-  "sourcesContent": [".register-section {\r\n  width: 400px;\r\n}\r\n"],
-  "mappings": ";AAAA,CAAA;AACE,SAAA;;",
-  "names": []
-}
